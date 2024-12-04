@@ -35,6 +35,3 @@ pub(crate) fn run() {
     }
     println!("{}", xmasCount);
 }
-
-// 4510
-// 710
